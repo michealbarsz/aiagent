@@ -28,8 +28,8 @@ Coach](projects/agent-instructions/digital-literacy-coach/INSTRUCTIONS.md)
 ---
 ## Connect
 - [LinkedIn](https://linkedin.com/in/YOUR-LINK)
-- [GitHub](https://github.com/YOUR-USERNAME)
-- Email: **youremail@example.com**
+- [GitHub](https://github.com/michealbarsz)
+- Email: **michealbasrz@gmail.com**
 ---
 *This portfolio is built on GitHub Pages — blending my technical, academic, and
 creative work into a showcase for recruiters, collaborators, and students.*
