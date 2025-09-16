@@ -1,7 +1,7 @@
 
 ##Featured AI Career Coaches
 Practical AI agents I’ve designed to support job seekers:
-- [Interview Coach](aiagent/job-prep/interview-agent/INSTRUCTIONS.md)
+- [Interview Coach](project/job-prep/interview-agent.md)
 *50+ behavioral questions, STAR feedback, and sample answers.*
 - [Resume Coach](project/job-preps/resume-coach/INSTRUCTIONS.md)
 *ATS-optimized tailoring + Job Match Scoring between a resume and a job
