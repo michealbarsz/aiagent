@@ -6,7 +6,7 @@ Practical AI agents I’ve designed to support job seekers:
 - [Negotiation Coach](project/job-prep/negotiation.md)
 *ATS-optimized tailoring + Job Match Scoring between a resume and a job
 description.*
-- [Networking Coach](project/job-prep/networking-coach/INSTRUCTIONS.md)
+- [Resume Coach](project/job-prep/resume-coach.md)
 *Outreach message practice and feedback on relationship-building.*
 - [Data-to-Strategy Translation Coach](projects/agent-instructions/data-strategy-
 translator-coach/INSTRUCTIONS.md)
